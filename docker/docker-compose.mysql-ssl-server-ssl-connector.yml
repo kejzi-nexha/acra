@@ -67,7 +67,7 @@ services:
         environment:
             MYSQL_ONETIME_PASSWORD: ${MYSQL_ONETIME_PASSWORD:-fUx)6"'5c$U@q_RXR_$E}
             MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:-Sc(6XM>TPS+erp2CMcty}
-            MYSQL_DATABASE: ${MYSQL_DATABASE:-acra}
+            MYSQL_DATABASE: ${MYSQL_DATABASE:-acra_db}
             MYSQL_USER: ${MYSQL_USER:-acra}
             MYSQL_PASSWORD: ${MYSQL_PASSWORD:-UB]mL$74qxjNB5\F#n4w}
         # Open the port outside for writer
